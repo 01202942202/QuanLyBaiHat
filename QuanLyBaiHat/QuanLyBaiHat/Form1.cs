@@ -15,6 +15,7 @@ namespace QuanLyBaiHat
         {
             InitializeComponent();
             //comncac
+            //sấcc
         }
     }
 }
