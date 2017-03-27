@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\QuanLyBaiHat.exe
+C:\Users\Admin\Desktop\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\QuanLyBaiHat.pdb
+C:\Users\Admin\Desktop\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\obj\x86\Debug\QuanLyBaiHat.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\obj\x86\Debug\QuanLyBaiHat.Form1.resources
+C:\Users\Admin\Desktop\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\obj\x86\Debug\QuanLyBaiHat.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\obj\x86\Debug\QuanLyBaiHat.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\obj\x86\Debug\QuanLyBaiHat.exe
+C:\Users\Admin\Desktop\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\QuanLyBaiHat\obj\x86\Debug\QuanLyBaiHat.pdb
