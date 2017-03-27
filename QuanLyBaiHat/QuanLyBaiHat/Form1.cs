@@ -14,6 +14,8 @@ namespace QuanLyBaiHat
         public Form1()
         {
             InitializeComponent();
+            //comncac
+            //sấcc
         }
     }
 }
